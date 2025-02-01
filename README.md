@@ -1,8 +1,8 @@
-# 🧠 João – Researcher, Creator, Storyteller  
+# 🧠 Arkmandel – Researcher, Creator, Storyteller  
 
 ## Welcome to My World  
 
-I’m João, a passionate **biomedical and biotechnology researcher**, a dedicated **Game Master and storyteller**, and a relentless **creator**—whether it’s in the lab, on the game table, or through 3D printing. My journey is a fusion of science, creativity, and deep curiosity about the unknown.  
+I’m Arkmandel, a passionate **biomedical and biotechnology researcher**, a dedicated **Game Master and storyteller**, and a relentless **creator**—whether it’s in the lab, on the game table, or through 3D printing. My journey is a fusion of science, creativity, and deep curiosity about the unknown.  
 
 ### 🔬 **Scientist at Heart**  
 I have a background in **Biomedical Sciences** and am currently pursuing a second bachelor's in **Biotechnology**. My research interests span **bionics, neurobiology, immunology, and genetics**, with a strong focus on **reproducing neural networks and understanding the brain in a laboratory setting**. The dream? To push the boundaries of what we know about **human cognition and health**.   
@@ -12,6 +12,10 @@ I recently returned to the **gym with a push-pull-legs routine**, balancing **in
 
 ### 📺 **Sharing the Journey**  
 I plan to create a **YouTube channel** focused on **tips for Game Masters and players**, sharing insights into world-building, mechanics, and narrative depth. If you love RPGs, stay tuned!  
+
+## What's going on?
+- 🔭 I’m currently working on designing a custom platform for my RPG sessions to help better immerse my players in the world of the campaign
+- 🌱 I’m currently learning **React** and **Flask**
 
 ## 🌌 Let’s Connect  
 If you’re passionate about **science, RPGs, 3D printing, or storytelling**, I’d love to exchange ideas! Whether you're here for research collaborations, game design discussions, or just some **epic nerd talk**, welcome aboard.  
